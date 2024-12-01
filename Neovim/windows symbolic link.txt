@@ -1,0 +1,1 @@
+New-Item -ItemType SymbolicLink -Path "C:\Users\AntonioBuendia\AppData\Local\nvim" -Target  "C:\Users\AntonioBuendia\OneDrive\Configuraciones\Neovim\nvim-config-windows-oss"
