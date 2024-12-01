@@ -1,0 +1,5 @@
+Hacer un enlace simbólico de ./config/neovim a la carpeta neovim, así toda la config se guardará siempre online.
+
+Tambien usar la opcion de mantener esta carpeta siempre offline
+
+Cuiado que este modo de funcionamiento hace que cambiar la config de un os hace que cambie en los otros oss, quizas mantener una carpeta para SOs tipo Windows y otra para SOs tipo Unix
